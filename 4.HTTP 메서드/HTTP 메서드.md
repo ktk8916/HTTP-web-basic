@@ -1,4 +1,4 @@
-# HTTP 기본
+# HTTP 메서드
 
 ## HTTP API 설계
 
